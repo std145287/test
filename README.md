@@ -3,7 +3,7 @@
 ![GitHub Logo](/images/profile.png)
 
 ## About:
-I am a **Lieutenant** in **Greek Army**, and work in Military Depot Maintenance for self-propelled guns and armored personnel carriers. 
+I am a **Lieutenant** in **Greek Army**, and I'm working in Military Depot Maintenance for self-propelled guns and armored personnel carriers. 
 I have **BSc in Computer Science**, and now I'm studying, Pervasive and Mobile Computing System at **Helenic Open University**. Also I'm studying **Byzantine Music**.
 
 ## Contact:
