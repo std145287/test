@@ -2,7 +2,6 @@
 
 ![GitHub Logo](/images/profile.png)
 
-
 ## About:
 I am a lieutenant in Greek Army, and work in Military Depot Maintenance for self-propelled guns and armored personnel carriers. 
 I have BSc in Computer Science, and now I'm studying, Pervasive and Mobile Computing System at Helenic Open University. Also I'm studying Byzantine Music.
@@ -11,9 +10,6 @@ I have BSc in Computer Science, and now I'm studying, Pervasive and Mobile Compu
 - phone: 6976670033
 - email: std145287@ac.eap.gr
 - src: https://github.com/std145287/cv
-- url: "std145287.github.io"
-
-
 
 ## Education
   - MSc Pervasive and Mobile Computing System MSc at Hellenic Open University, Oct 2019 -- present
@@ -23,12 +19,15 @@ I have BSc in Computer Science, and now I'm studying, Pervasive and Mobile Compu
   - School of Byzantine Music, Oct 2014 -- present 
 
 ## Job:
-  - place: Greek Army
-    location: Thessaloniki, Limnos, Mytilene, Nea Santa
-    title: Vehicle mechanic, Computer Officer, Communication Officer, CIMIC Liaison Officer
-    dates: Mar 1998 -- Present
-
+Vehicle Technician for Greek Army | Limnos | 1998-2000
+Vehicle Technician & Computer Officer for Greek Army | Thessaloniki | 2000-2006
+Vehicle Technician for Greek Army | Mytilene | 2006-2008
+Vehicle mechanic & Computer Officer | Nea Santa | 2008-2013
+CIMIC Liaison & Communication Officer | Thessaloniki | 2013-2016
+Engine Workshop Manager | Thessaloniki | 2016-Present
 
 ## Skills:
   - Languages: C, Java
   - Systems: Linux, OSX, Windows
+  
+  
