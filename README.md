@@ -3,8 +3,8 @@
 ![GitHub Logo](/images/profile.png)
 
 ## About:
-I am a lieutenant in Greek Army, and work in Military Depot Maintenance for self-propelled guns and armored personnel carriers. 
-I have BSc in Computer Science, and now I'm studying, Pervasive and Mobile Computing System at Helenic Open University. Also I'm studying Byzantine Music.
+I am a **Lieutenant** in **Greek Army**, and work in Military Depot Maintenance for self-propelled guns and armored personnel carriers. 
+I have **BSc in Computer Science**, and now I'm studying, Pervasive and Mobile Computing System at **Helenic Open University**. Also I'm studying **Byzantine Music**.
 
 ## Contact:
 - phone: 6976670033
