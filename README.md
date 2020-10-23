@@ -19,9 +19,11 @@ I have BSc in Computer Science, and now I'm studying, Pervasive and Mobile Compu
   - School of Byzantine Music, Oct 2014 -- present 
 
 ## Job:
-Vehicle Technician for Greek Army | Limnos | 1998-2000
-Vehicle Technician & Computer Officer for Greek Army | Thessaloniki | 2000-2006
-Vehicle Technician for Greek Army | Mytilene | 2006-2008
+Position | Place | Time Period
+------------ | ------------- | -------------
+Vehicle mechanic for Greek Army | Limnos | 1998-2000
+Vehicle mechanic & Computer Officer for Greek Army | Thessaloniki | 2000-2006
+Vehicle mechanic for Greek Army | Mytilene | 2006-2008
 Vehicle mechanic & Computer Officer | Nea Santa | 2008-2013
 CIMIC Liaison & Communication Officer | Thessaloniki | 2013-2016
 Engine Workshop Manager | Thessaloniki | 2016-Present
@@ -29,5 +31,3 @@ Engine Workshop Manager | Thessaloniki | 2016-Present
 ## Skills:
   - Languages: C, Java
   - Systems: Linux, OSX, Windows
-  
-  
