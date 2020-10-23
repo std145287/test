@@ -9,7 +9,7 @@ I have BSc in Computer Science, and now I'm studying, Pervasive and Mobile Compu
 ## Contact:
 - phone: 6976670033
 - email: std145287@ac.eap.gr
-- src: https://github.com/std145287/cv
+- GitHub: https://github.com/std145287/
 
 ## Education
   - MSc Pervasive and Mobile Computing System MSc at Hellenic Open University, Oct 2019 -- present
